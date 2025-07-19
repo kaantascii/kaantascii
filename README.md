@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Merhaba, ben Kaan Mert Taşcı
 
-<!--
-**kaantascii/kaantascii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Backend Developer | ASP.NET Core & C#  
+🎓 Bilgisayar Programcılığı Mezunu  
+📍 Türkiye | 🌐 Patika+ Bootcamp Mezunu  
+📚 Sürekli öğrenme odaklı, proje geliştirerek kendini geliştiren bir yazılımcıyım.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Kullandığım Teknolojiler
+
+- 💻 C#, .NET Core, ASP.NET MVC
+- 🗄️ SQL, PostgreSQL, MySQL
+- 🌐 HTML, CSS, JavaScript (temel)
+- 📁 Git & GitHub
+- 📦 Entity Framework Core
+- 🔐 Temel Siber Güvenlik Bilgisi
+
+---
+
+## 📌 Devam Eden Projeler
+
+- **Kütüphane Yönetim Sistemi**  
+  ASP.NET Core MVC ile geliştirdiğim basit CRUD işlemleri içeren bir sistem.  
+  👉 [Projeye Git](https://github.com/kaantascii/LibraryManagementSystem)
+
+---
+
+## 📈 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaantascii&show_icons=true&theme=radical)
+
+---
+
+## 📫 Bana Ulaşın
+
+- ✉️ mr.kaanofficial@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaan-tascii/)  
+- 🧑‍💻 [GitHub](https://github.com/kaantascii)
+
