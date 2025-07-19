@@ -34,7 +34,6 @@
 
 ## 📫 Bana Ulaşın
 
-- ✉️ mr.kaanofficial@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kaan-tascii/)  
 - 🧑‍💻 [GitHub](https://github.com/kaantascii)
 
